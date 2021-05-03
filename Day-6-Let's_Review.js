@@ -3,7 +3,6 @@ function processData(input){
 
   for (i = 1; i < input.length; i++) {
     var splitWord = input[i].split('');
-
     var even = '';
     var odd = '';
 
