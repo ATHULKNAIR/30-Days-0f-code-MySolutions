@@ -15,6 +15,5 @@ function processData(input){
     }
     console.log(even + ' ' + odd);
   }
-
 }
 
